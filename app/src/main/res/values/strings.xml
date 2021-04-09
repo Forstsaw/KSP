@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ksp</string>
+    <string name="koperasi_pinjam_uang">Koperasi Simpan Pinjam</string>
+    <string name="login">Login</string>
+    <string name="register">register</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confpass">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="chandra_wijaya_0000002806">Chandra Wijaya - 00000028069</string>
+    <string name="vincentius_clarishna_00000027066">Vincentius Clarishna - 00000027066</string>
+    <string name="vinson_phoan_00000029963">Vinson Phoan - 00000029963</string>
+    <string name="connellius_00000026985">Connellius - 00000026985</string>
+    <string name="muhammad_fachrell_00000032721">Muhammad Fachrell - 00000032721</string>
+    <string name="agga_pagunnata_00000025763">Agga Pagunnata- 00000025763</string>
+    <string name="log_in_user">Log In</string>
+    <string name="create_account">Register</string>
+    <string name="home_time">Good Morning</string>
+    <string name="home_nama_user">Nama User</string>
+    <string name="home_txt_balance">TOTAL BALANCE</string>
+    <string name="home_balance_value">0</string>
+    <string name="home_btn_pinjam">Pinjam</string>
+    <string name="home_btn_simpan">Simpan</string>
+    <string name="home_btn_angsur">Angsur</string>
+</resources>
